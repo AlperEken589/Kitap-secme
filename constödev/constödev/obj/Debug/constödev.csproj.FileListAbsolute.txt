@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\constödev\constödev\bin\Debug\constödev.exe.config
+C:\Users\Asus\source\repos\constödev\constödev\bin\Debug\constödev.exe
+C:\Users\Asus\source\repos\constödev\constödev\bin\Debug\constödev.pdb
+C:\Users\Asus\source\repos\constödev\constödev\obj\Debug\constödev.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\constödev\constödev\obj\Debug\constödev.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\constödev\constödev\obj\Debug\constödev.exe
+C:\Users\Asus\source\repos\constödev\constödev\obj\Debug\constödev.pdb
