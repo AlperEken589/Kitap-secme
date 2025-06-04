@@ -1,2 +1,2 @@
-# C-Kitap-se-me
+# C-Kitap-secme
 C# ile yapılmış bir kitap seçme uygulaması 
